@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Horse Riding analytics system, click to see [here](https://github.com/JoshuaSutherland43/WIL_2025)
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+
 <!--
 **st10085208/st10085208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
