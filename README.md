@@ -12,6 +12,8 @@ My name is Kyle, and I am a Varsity College trained Software Developer👨‍�
 [![Bootstrap 5](https://img.shields.io/badge/Bootstrap-5.0-7952B3?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=flat&logo=.net&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/programming-guide/concepts/linq/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org/docs/home.html)
+
 
 
 <!--
