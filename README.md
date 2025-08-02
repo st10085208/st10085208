@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on Horse Riding analytics system, click to see [here](https://github.com/JoshuaSutherland43/WIL_2025)
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Aps.Net Core 8.0, check [here]()
 - 👯 I’m looking to collaborate on ...
 
 <!--
